@@ -1,1 +1,2 @@
-# alfred-extensions
+# Alfred Workflows
+
